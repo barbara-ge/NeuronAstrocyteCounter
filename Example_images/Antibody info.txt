@@ -1,0 +1,6 @@
+Used antibodies 03/-22
+1) betub (ms) + GFAP (rb) + MAP2 (ck)
+2) GFAP (ms) + SYP (rb) + MAP2 (ck)
+3) GFAP (ms) + S100beta (rb) + VIM (ck)
+4) GFAP (ms) + SLC6A1 (rb) + VIM (ck)
+5) GFAP (ms+rb+ck)
